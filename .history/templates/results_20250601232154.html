@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <style>
+        body {
+    background-color: #f0f2f5;  /* softer light background */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #222;
+}
+
+.mynav {
+    background-color: #343a40; /* dark gray/navy instead of black for modern feel */
+    color: #fff;
+    font-weight: 600;
+    padding: 15px 0;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    margin-bottom: 30px;
+}
+
+h1, h2 {
+    font-weight: 700;
+    color: #212529;
+    margin-bottom: 20px;
+}
+
+.form-control:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 8px rgba(0,123,255,0.3);
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    padding: 10px 25px;
+    font-size: 1.1rem;
+    transition: background-color 0.3s ease;
+    border-radius: 6px;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.form-group label {
+    font-weight: 600;
+    color: #495057;
+}
+
+/* Add subtle shadows and rounded corners for containers */
+.container {
+    background-color: #fff;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Top Recommended Studies with Probabilities</h1>
+        <ul class="list-group mt-3">
+            {% for recommendation in recommendations %}
+                <li class="list-group-item">{{ recommendation[0] }} with probability {{(recommendation[1]*100)|round(2)}}%</li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>

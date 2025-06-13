@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Studies Recommendation</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .mynav {
+            border-radius: 10px;
+            box-shadow: 0px 20px 60px rgba(0, 0, 0, 0.1); /* Increased shadow for mynav */
+            background: rgba(0, 0, 0, 0.7); /* Semi-transparent background color */
+            color: white;
+            padding: 10px;
+            width: 100%;
+        }
+
+        .container {
+            margin-top: 70px;
+            border-radius: 40px;
+            box-shadow: 0 4px 20px rgba(63, 63, 63, 0.1); /* Increased shadow for container */
+            padding: 25px;
+            padding-left: 40px;
+            background-color: rgba(237, 232, 232, 0.7);
+            text-align: center;
+            max-width: 800px; /* You can adjust this value */
+            margin-left: auto;
+            margin-right: auto;
+         }
+
+        .bg-image {
+            background-size: 60%;
+            background-position: center;
+            height: 100vh;
+            background-repeat:no-repeat;
+            
+        }
+        h2 {
+            margin-bottom: 30px; /* or any value you prefer */
+        }
+        .text-center{
+            font-size: 50px;
+        }
+        .container mt-9{
+            font-size:30px;
+        }
+        .btn{
+            font-size:20px;
+        }
+        
+
+    </style>
+</head>
+<body>
+    <div class="bg-image" id="bgImage">
+        <div class="mynav shadow-sm" style="background:transparent; color:rgb(17, 17, 17);text:bold; padding:40px;width:100%;">
+            <h1 class="text-center">Career Guidance System</h1>
+        </div>
+
+        <div class="container mt-9">
+            
+            <h3>Click the button below to get recommendations:</h3>
+            <a href="/recommend" class=" b">Get Recommendations</a>
+        </div>
+    </div>
+
+    <script>
+        const images = ["static/images/bg2.jpg"]; // Update image paths
+        let currentIndex = 0;
+
+         function changeBackground() {
+            document.getElementById('bgImage').style.backgroundImage = `url('${images[currentIndex]}')`;
+            currentIndex = (currentIndex + 1) % images.length;
+            setTimeout(changeBackground, 4000); // Change every 2 seconds
+        }
+
+        changeBackground();
+    </script>
+</body>
+</html>

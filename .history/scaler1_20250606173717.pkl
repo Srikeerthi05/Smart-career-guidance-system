@@ -1,0 +1,20 @@
+from sklearn.preprocessing import StandardScaler
+import pickle
+import pandas as pd
+
+# Load your CSV
+df = pd.read_csv("student-scores.csv")
+
+# Select the relevant numeric columns you scale (based on your model inputs)
+X = df[['gender', 'part_time_job', 'absence_days', 'extracurricular_activities',
+        'weekly_self_study_hours', 'math_score', 'history_score', 'physics_score',
+        'chemistry_score', 'biology_score', 'english_score', 'geography_score',
+        'total_score', 'average_score']]
+
+# Fit scaler
+scaler = StandardScaler()
+scaler.fit(X)
+
+# Save it
+with open('scaler1.pkl', 'wb') as f:
+    pickle.dump(scaler, f)

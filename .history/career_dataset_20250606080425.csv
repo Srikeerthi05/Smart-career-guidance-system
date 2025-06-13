@@ -1,0 +1,12 @@
+Gender,Part_Time_Job,Hobbies,Weekly_Self_Study_Hours,Math_Score,History_Score,Physics_Score,Chemistry_Score,Biology_Score,English_Score,Geography_Score,Total_Score,Average_Score,Career
+Female,No,"Writing,Sports",2,61,100,91,84,50,86,89,561,80.14,Journalist
+Male,Yes,"Drawing",4,80,60,72,85,66,70,75,508,72.57,Architect
+Female,No,"Writing",6,92,78,88,90,81,84,90,603,86.14,Scientist
+Male,Yes,"Sports,Music",3,65,70,60,66,55,59,64,439,62.71,Coach
+Female,No,"Reading,Music",5,75,85,79,77,83,82,85,566,80.86,Teacher
+Gender,Part_Time_Job,Hobbies,Weekly_Self_Study_Hours,Math_Score,History_Score,Physics_Score,Chemistry_Score,Biology_Score,English_Score,Geography_Score,Total_Score,Average_Score,Career
+Female,No,"Writing,Sports",2,61,100,91,84,50,86,89,561,80.14,Journalist
+Male,Yes,"Drawing",4,80,60,72,85,66,70,75,508,72.57,Architect
+Female,No,"Writing",6,92,78,88,90,81,84,90,603,86.14,Scientist
+Male,Yes,"Sports,Music",3,65,70,60,66,55,59,64,439,62.71,Coach
+Female,No,"Reading,Music",5,75,85,79,77,83,82,85,566,80.86,Teacher

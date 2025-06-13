@@ -1,0 +1,109 @@
+Gender,Part_Time_Job,Hobbies,Weekly_Self_Study_Hours,Math_Score,History_Score,Physics_Score,Chemistry_Score,Biology_Score,English_Score,Geography_Score,Total_Score,Average_Score,Career
+Female,No,"Writing,Sports",2,61,100,91,84,50,86,89,561,80.14,Journalist
+Male,Yes,"Drawing",4,80,60,72,85,66,70,75,508,72.57,Architect
+Female,No,"Writing",6,92,78,88,90,81,84,90,603,86.14,Scientist
+Male,Yes,"Sports,Music",3,65,70,60,66,55,59,64,439,62.71,Coach
+Female,No,"Reading,Music",5,75,85,79,77,83,82,85,566,80.86,Teacher
+Female,No,"Writing,Sports",2,61,100,91,84,50,86,89,561,80.14,Journalist
+Male,Yes,"Drawing",4,80,60,72,85,66,70,75,508,72.57,Architect
+Male,Yes,"Drawing",4,80,60,72,85,66,70,75,508,72.57,Architect
+Female,No,"Gaming,Netflix",10,95,92,90,91,93,94,89,644,92.0,Chef
+Male,Yes,"Reading,Gaming",0,99,98,97,100,96,95,94,679,97.0,Artist
+Male,Yes,"Drawing",4,80,60,72,85,66,70,75,508,72.57,Architect
+Female,No,"Writing",6,92,78,88,90,81,84,90,603,86.14,Scientist
+Male,Yes,"Sports,Music",3,65,70,60,66,55,59,64,439,62.71,Coach
+Female,No,"Reading,Music",5,75,85,79,77,83,82,85,566,80.86,Teacher
+Female,No,"Writing,Sports",2,61,100,91,84,50,86,89,561,80.14,Journalist
+Male,Yes,"Drawing",4,80,60,72,85,66,70,75,508,72.57,Architect
+Male,Yes,"Sports;Writing;Gaming",29.46,69,54,N/A,64,71,83,89,430,61.43,Game Developer  
+Male,No,"Coding;Gaming;Writing",27.93,19,97,11,45,77,5,93,347,49.57,Stock Investor  
+Male,No,Music,33.18,46,90,84,37,29,48,35,369,52.71,Stock Investor  
+Female,Yes,"Public Speaking;Writing;Photography",10.68,82,81,93,59,81,28,87,511,73.0,Accountant  
+Male,Yes,Public Speaking,16.05,72,40,63,82,33,95,71,456,65.14,Banker  
+Female,No,"Sports;Writing;Music",19.74,14,20,54,49,59,70,1,267,38.14,Artist  
+Female,No,Music,17.39,92,33,97,13,38,64,77,414,59.14,Business Owner  
+Male,No,"Coding;Music",12.97,-1,39,30,10,62,97,68,305,43.57,Software Engineer  
+Male,No,"Music;Photography",34.9,27,96,25,51,83,66,57,405,57.86,Artist  
+Male,Yes,Public Speaking,0.84,75,9,7,4,9,35,85,224,32.0,Real Estate Developer 
+Female,No,"Writing,Sports",2,61,100,91,84,50,86,89,561,80.14,Journalist
+Male,Yes,"Drawing",4,80,60,72,85,66,70,75,508,72.57,Architect
+Female,No,"Writing",6,92,78,88,90,81,84,90,603,86.14,Scientist
+Male,Yes,"Sports,Music",3,65,70,60,66,55,59,64,439,62.71,Coach
+Female,No,"Reading,Music",5,75,85,79,77,83,82,85,566,80.86,Teacher
+Female,No,"Writing,Sports",2,61,100,91,84,50,86,89,561,80.14,Journalist
+Male,Yes,"Drawing",4,80,60,72,85,66,70,75,508,72.57,Architect
+Male,Yes,"Drawing",4,80,60,72,85,66,70,75,508,72.57,Architect
+Female,No,"Gaming,Netflix",10,95,92,90,91,93,94,89,644,92.0,Chef
+Female,No,"Sports;Writing;Music",19.74,14,20,54,49,59,70,1,267,38.14,Artist  
+Female,No,Music,17.39,92,33,97,13,38,64,77,414,59.14,Business Owner  
+Male,No,"Coding;Music",12.97,-1,39,30,10,62,97,68,305,43.57,Software Engineer  
+Male,No,"Music;Photography",34.9,27,96,25,51,83,66,57,405,57.86,Artist 
+Male,No,"Photography;Music;Sports",12.84,51,69,98,74,61,74,62,489,69.86,Banker  
+Female,Yes,Music,18.95,54,100,59,89,58,85,53,498,71.14,Real Estate Developer  
+Female,No,"Music;Drawing",8.05,83,74,64,97,65,92,62,537,76.71,Software Engineer  
+Female,Yes,"Writing;Drawing",28.1,81,56,87,70,53,52,92,491,70.14,Banker  
+Female,Yes,Sports,11.06,82,97,73,54,80,54,43,483,69.0,Artist  
+Female,No,"Photography;Coding;Public Speaking",24.27,40,75,99,50,66,81,99,510,72.86,Real Estate Developer  
+Female,Yes,"Public Speaking;Drawing",21.15,98,89,45,81,76,54,74,517,73.86,Doctor  
+Male,No,Coding,29.93,65,90,71,51,99,87,95,558,79.71,Writer  
+Male,Yes,"Writing;Drawing",12.11,81,74,73,71,96,100,48,543,77.57,Stock Investor  
+Female,Yes,Public Speaking,9.06,69,81,56,85,51,40,87,469,67.0,Accountant 
+Female,No,"Reading,Music",5,75,85,79,77,83,82,85,566,80.86,Teacher
+Female,No,"Writing,Sports",2,61,100,91,84,50,86,89,561,80.14,Journalist
+Male,Yes,"Drawing",4,80,60,72,85,66,70,75,508,72.57,Architect
+Male,Yes,"Sports;Writing;Gaming",29.46,69,54,N/A,64,71,83,89,430,61.43,Game Developer  
+Male,No,"Coding;Gaming;Writing",27.93,19,97,11,45,77,5,93,347,49.57,Stock Investor  
+Male,No,"Music",33.18,46,90,84,37,29,48,35,369,52.71,Stock Investor  
+Female,Yes,Sports,11.06,82,97,73,54,80,54,43,483,69.0,Artist  
+Female,No,"Photography;Coding;Public Speaking",24.27,40,75,99,50,66,81,99,510,72.86,Real Estate Developer  
+Female,Yes,"Public Speaking;Drawing",21.15,98,89,45,81,76,54,74,517,73.86,Doctor  
+Male,No,"Coding",29.93,65,90,71,51,99,87,95,558,79.71,Writer
+Male,No,"Coding;Music",12.97,-1,39,30,10,62,97,68,305,43.57,Software Engineer  
+Male,No,"Music;Photography",34.9,27,96,25,51,83,66,57,405,57.86,Artist  
+Male,Yes,Public Speaking,0.84,75,9,7,4,9,35,85,224,32.0,Real Estate Developer 
+Male,Yes,"Public Speaking;Writing;Photography",10.68,82,81,93,59,81,28,87,511,73.0,Accountant  
+Male,Yes,Public Speaking,16.05,72,40,63,82,33,95,71,456,65.14,Banker  
+Female,No,"Sports;Writing;Music",19.74,14,20,54,49,59,70,1,267,38.14,Artist
+Female,No,"Sports;Writing;Music",19.74,14,20,54,49,59,70,1,267,38.14,Artist  
+Female,No,Music,17.39,92,33,97,13,38,64,77,414,59.14,Business Owner  
+Male,No,"Coding;Music",12.97,-1,39,30,10,62,97,68,305,43.57,Software Engineer  
+Male,No,"Music;Photography",34.9,27,96,25,51,83,66,57,405,57.86,Artist 
+Female,No,"Photography;Coding;Public Speaking",24.27,40,75,99,50,66,81,99,510,72.86,Real Estate Developer  
+Female,Yes,"Public Speaking;Drawing",21.15,98,89,45,81,76,54,74,517,73.86,Doctor  
+Male,No,Coding,29.93,65,90,71,51,99,87,95,558,79.71,Writer  
+Male,Yes,"Writing;Drawing",12.11,81,74,73,71,96,100,48,543,77.57,Stock Investor  
+Female,Yes,Public Speaking,9.06,69,81,56,85,51,40,87,469,67.0,Accountant 
+Male,No,"Music;Photography",34.9,27,96,25,51,83,66,57,405,57.86,Artist 
+Female,No,"Photography;Coding;Public Speaking",24.27,40,75,99,50,66,81,99,510,72.86,Real Estate Developer  
+Female,No,"Writing",6,92,78,88,90,81,84,90,603,86.14,Scientist
+Male,Yes,"Sports,Music",3,65,70,60,66,55,59,64,439,62.71,Coach
+Female,No,"Writing,Sports",2,61,100,91,84,50,86,89,561,80.14,Journalist
+Male,Yes,"Drawing",4,80,60,72,85,66,70,75,508,72.57,Architect
+Female,No,"Writing",6,92,78,88,90,81,84,90,603,86.14,Scientist
+Male,Yes,"Sports;Writing;Gaming",29.46,69,54,N/A,64,71,83,89,430,61.43,Game Developer  
+Male,No,"Coding;Gaming;Writing",27.93,19,97,11,45,77,5,93,347,49.57,Stock Investor  
+Male,No,Music,33.18,46,90,84,37,29,48,35,369,52.71,Stock Investor  
+Female,Yes,"Public Speaking;Writing;Photography",10.68,82,81,93,59,81,28,87,511,73.0,Accountant
+Male,No,"Photography;Music;Sports",12.84,51,69,98,74,61,74,62,489,69.86,Banker  
+Female,Yes,Music,18.95,54,100,59,89,58,85,53,498,71.14,Real Estate Developer  
+Female,No,"Music;Drawing",8.05,83,74,64,97,65,92,62,537,76.71,Software Engineer  
+Female,Yes,"Writing;Drawing",28.1,81,56,87,70,53,52,92,491,70.14,Banker  
+Female,Yes,Sports,11.06,82,97,73,54,80,54,43,483,69.0,Artist
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+
+
+

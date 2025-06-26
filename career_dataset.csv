@@ -199,3 +199,423 @@ Male,Yes,"Reading,Gaming,Drawing",10,93,98,62,61,89,90,75,568,81.14,Doctor
 Female,No,Gaming,11,56,61,58,80,70,65,50,440,62.86,Banker
 Female,Yes,"Music,Drawing",5,87,96,86,50,66,91,73,549,78.43,Software Engineer
 Male,Yes,"Writing,Sports,Drawing",3,75,93,82,95,99,69,94,607,86.71,Doctor
+Female,No,Sports,5,76,60,57,71,100,78,100,542,77.43,Doctor
+Male,No,"Photography,Drawing",9,100,100,59,75,50,85,100,569,81.29,Lawyer
+female,No,"Drawing,Photography",1,69,92,63,67,71,84,68,514,73.43,Lawyer
+Female,Yes,Music,15,80,96,76,50,56,87,100,545,77.86,Lawyer
+Male,Yes,Sports,11,57,63,63,84,65,90,79,501,71.57,Artist
+male,Yes,"Drawing,Sports,Reading",15,80,70,95,66,100,59,70,540,77.14,Doctor
+Female,Yes,Sports,9,100,100,50,55,76,67,43,491,70.14,Construction Engineer
+Female,Yes,"Music,Coding,Gaming",5,81,84,62,70,67,73,89,526,75.14,Real-Estate Developer
+Male,No,"Sports,Gaming",2,65,54,99,75,88,61,100,542,77.43,Doctor
+Male,Yes,"Reading,Gaming,Drawing",10,100,90,66,67,84,91,67,565,80.71,Doctor
+Female,No,Gaming,11,47,62,48,76,65,75,45,418,59.71,Banker
+Male,No,"Music,Sports",7,100,73,96,93,43,99,82,586,83.71,Software Engineer
+Female,Yes,"Writing,Music",11,78,64,68,96,96,84,58,544,77.71,doctor
+Female,Yes,"Drawing,Photography,Gaming",11,94,85,72,63,78,85,46,523,74.71,Doctor
+Female,No,"Reading,Gaming,Writing",11,87,99,92,80,61,100,94,613,87.57,Software Engineer
+Female,No,Reading,5,63,72,69,92,71,70,66,503,71.86,Software Engineer
+Male,Yes,"Writing,Music",13,80,87,90,49,96,76,100,578,82.57,Doctor
+male,No,Drawing,3,100,96,80,53,87,86,44,546,78.0,software Engineer
+Female,No,"Sports,Photography,Music",5,89,100,94,70,67,77,61,558,79.71,Software Engineer
+Female,No,Reading,11,85,83,73,91,78,100,77,587,83.86,Game Developer
+Male,Yes,"Drawing,Gaming,Photography",1,93,83,68,92,53,86,92,567,81.0,Designer
+Male,No,Drawing,5,88,83,67,85,52,54,84,513,73.29,Designer
+Female,Yes,"Coding,Sports",9,68,73,71,63,81,68,61,485,69.29,accountant
+Male,No,Drawing,1,69,84,99,68,94,89,81,584,83.43,Doctor
+female,Yes,Coding,5,64,50,87,90,96,92,82,561,80.14,Doctor
+Male,No,Music,2,62,56,66,97,95,89,80,545,77.86,Doctor
+Male,Yes,"Coding,Reading",9,86,73,100,58,63,76,54,510,72.86,Software Engineer
+Female,Yes,"Gaming,Writing,Reading",11,51,89,79,64,75,75,81,514,73.43,writer
+Male,No,"Coding,Reading",7,63,75,93,46,68,92,50,487,69.57,Designer
+male,Yes,"Reading,Writing,Coding",6,74,70,93,51,100,94,88,570,81.43,Doctor
+Female,Yes,Writing,12,100,74,45,62,59,61,94,495,70.71,Writer
+Male,Yes,"Music,Photography",7,86,84,59,50,97,85,52,513,73.29,Doctor
+female,No,Reading,5,55,73,72,76,100,72,80,528,75.43,Doctor
+female,Yes,"Photography,Drawing",15,75,61,63,99,81,50,69,498,71.14,Designer
+Male,No,"Writing,Coding",6,88,58,70,69,92,93,79,549,78.43,Doctor
+Male,No,"Photography,Coding",12,67,86,73,73,80,91,56,526,75.14,Doctor
+Male,No,"Drawing,Coding",3,85,100,99,81,61,68,61,555,79.29,Software Engineer
+Male,No,"Gaming,Music",1,86,60,100,80,69,74,71,540,77.14,Software Engineer
+Male,Yes,"Reading,Sports,Drawing",11,61,66,53,49,90,53,88,460,65.71,Doctor
+Female,Yes,"Music,Reading",8,53,83,60,98,76,71,51,492,70.29,Software Engineer
+Male,No,Photography,2,100,66,94,76,85,55,90,566,80.86,Software Engineer
+Female,No,Drawing,13,72,75,66,57,56,100,48,474,67.71,Designer
+Male,No,Reading,9,87,68,86,90,48,88,65,532,76.0,Government Officer
+Female,No,"Photography,Music,Sports",13,80,88,63,64,63,94,57,509,72.71,Lawyer
+Female,No,"Reading,Writing,Music",11,85,70,96,51,68,88,57,515,73.57,Software Engineer
+Male,Yes,"Drawing,Writing",6,100,68,70,73,67,62,64,504,72.0,Designer
+Male,No,Music,10,90,47,78,88,54,95,91,543,77.57,Software Engineer
+Male,No,"Coding,Gaming,Photography",2,58,88,89,92,65,97,69,558,79.71,Lawyer
+Female,Yes,"Music,Reading",5,89,74,85,67,59,82,47,503,71.86,Doctor
+Male,No,"Photography,Sports",4,72,93,61,79,90,68,97,560,80.0,Doctor
+Female,No,Reading,9,81,58,76,69,81,54,61,480,68.57,Stock Investor
+Male,Yes,Coding,5,65,96,66,69,64,61,80,501,71.57,accountant
+Male,Yes,"Photography,Sports",15,61,80,46,58,68,84,79,476,68.0,Designer
+Male,Yes,"Reading,Coding,Gaming",5,87,96,100,96,82,64,79,604,86.29,Lawyer
+Male,No,Music,12,67,100,70,64,61,73,49,484,69.14,Business Owner
+Female,No,Gaming,9,84,100,86,69,93,93,92,617,88.14,Doctor
+Male,Yes,Gaming,6,100,65,87,76,95,62,62,547,78.14,Doctor
+Male,Yes,"Drawing,Photography",8,98,76,51,42,84,90,60,501,71.57,Doctor
+Male,No,"Coding,Music,Sports",2,66,52,80,49,90,64,78,479,68.43,Doctor
+Female,No,"Photography,Sports",4,69,87,65,81,63,85,89,539,77.0,Designer
+Male,Yes,"Gaming,Drawing",15,96,90,69,51,59,100,70,535,76.43,Designer
+Female,Yes,"Photography,Drawing",6,83,95,76,64,81,77,66,542,77.43,Designer
+Male,No,Gaming,1,60,88,78,96,71,64,90,547,78.14,Software Engineer
+Female,Yes,Reading,14,57,88,62,77,70,53,98,505,72.14,Software Engineer
+female,Yes,Photography,13,63,61,95,100,84,99,59,561,80.14,Designer
+Female,No,"Photography,Gaming",9,52,93,63,70,80,97,67,522,74.57,doctor
+Male,Yes,"Writing,Gaming",11,100,46,83,64,88,76,56,513,73.29,Doctor
+Male,No,Music,6,79,71,61,69,81,67,82,510,72.86,Teacher
+Male,Yes,Gaming,10,90,70,89,81,65,70,85,550,78.57,Banker
+Female,No,"Coding,Gaming,Sports",15,60,100,90,70,52,85,82,539,77.0,Writer
+female,No,"Music,Writing",7,72,49,58,77,86,67,82,491,70.14,Doctor
+Female,No,Gaming,5,40,78,94,90,100,61,91,554,79.14,Doctor
+Female,No,Reading,4,84,68,87,66,88,91,100,584,83.43,Software Engineer
+Male,Yes,"Coding,Drawing,Sports",1,86,79,100,66,47,58,80,516,73.71,Software Engineer
+Female,Yes,Drawing,13,80,74,84,78,73,57,62,508,72.57,Designer
+Female,No,"Reading,Gaming,Coding",8,52,62,96,59,87,92,91,539,77.0,Doctor
+female,No,Gaming,1,62,94,53,70,74,85,100,538,76.86,Banker
+Female,No,Sports,8,49,84,88,65,96,63,96,541,77.29,Doctor
+Male,No,"Music,Reading,Sports",2,55,44,61,76,84,56,53,429,61.29,Scientist
+Male,No,"Reading,Photography",12,95,82,84,78,100,100,66,605,86.43,Doctor
+Female,Yes,"Gaming,Drawing",1,85,67,67,85,78,68,80,530,75.71,Designer
+Male,No,"Reading,Coding,Sports",5,52,63,84,59,90,54,100,502,71.71,doctor
+Male,Yes,"Sports,Writing",13,91,66,64,100,76,53,83,533,76.14,Writer
+Male,Yes,"Drawing,Gaming",15,82,60,61,50,59,91,58,461,65.86,Designer
+Male,Yes,"Coding,Writing,Photography",6,92,92,57,96,62,47,68,514,73.43,designer
+Female,Yes,Gaming,9,58,87,55,75,70,96,72,513,73.29,Lawyer
+Male,No,"Sports,Music,Coding",12,97,100,92,59,69,81,47,545,77.86,lawyer
+Male,No,"Gaming,Reading",2,73,100,88,58,52,62,94,527,75.29,Software Engineer
+Male,Yes,"Reading,Sports",10,73,58,72,81,85,74,59,502,71.71,Doctor
+Male,Yes,"Photography,Writing",7,63,71,85,84,96,60,62,521,74.43,Doctor
+Female,No,"Music,Drawing,Writing",11,74,61,60,61,53,71,57,437,62.43,Designer
+Female,Yes,"Coding,Music,Gaming",9,75,91,53,70,66,84,100,539,77.0,Lawyer
+Female,Yes,"Music,Drawing",2,89,74,65,52,95,88,55,518,74.0,Doctor
+Male,No,"Reading,Coding,Drawing",10,56,74,95,98,81,79,85,568,81.14,Doctor
+Male,No,Drawing,5,84,100,68,77,82,54,55,520,74.29,Designer
+Male,No,Drawing,12,84,58,51,96,77,60,74,500,71.43,Designer
+Female,No,"Drawing,Photography",5,99,74,100,92,82,46,50,543,77.57,Software Engineer
+Male,Yes,"Coding,Reading,Photography",5,74,83,71,90,96,70,77,561,80.14,Doctor
+Female,Yes,"Writing,Drawing,Sports",2,66,92,85,81,84,86,88,582,83.14,Designer
+Female,Yes,Gaming,10,57,41,63,60,56,100,62,439,62.71,Banker
+Female,No,Coding,8,100,83,61,53,76,84,100,557,79.57,Scientist
+female,Yes,"Coding,Sports",1,78,51,77,96,76,91,68,537,76.71,Game Developer
+Female,Yes,"Coding,Drawing",3,91,69,98,64,62,70,58,512,73.14,Software Engineer
+Male,No,"Gaming,Music,Coding",7,77,95,72,66,68,100,67,545,77.86,Lawyer
+Male,Yes,"Sports,Gaming,Drawing",6,92,91,57,65,53,53,56,467,66.71,designer
+Male,Yes,"Drawing,Gaming,Reading",2,67,100,89,81,75,100,91,603,86.14,Lawyer
+Female,No,"Reading,Writing,Sports",2,89,74,91,74,97,70,89,584,83.43,Doctor
+Male,No,Music,7,73,46,65,76,83,100,75,518,74.0,Doctor
+Male,No,Coding,15,78,84,94,87,55,46,88,532,76.0,Game Developer
+Male,No,Coding,5,80,79,70,85,70,77,97,558,79.71,construction Engineer
+Female,No,"Writing,Sports",1,90,76,45,66,61,91,50,479,68.43,Writer
+Male,Yes,Sports,14,58,94,65,59,66,81,84,507,72.43,Artist
+Male,No,"Music,Gaming,Drawing",3,85,80,94,90,59,100,52,560,80.0,Software Engineer
+Female,Yes,"Coding,Drawing,Music",11,67,82,94,54,55,83,100,535,76.43,Designer
+Male,Yes,"Music,Gaming,Reading",10,48,100,77,100,46,81,78,530,75.71,Game Developer
+Female,Yes,"Reading,Coding,Sports",14,76,63,85,67,85,74,96,546,78.0,Doctor
+Male,No,Music,10,83,90,78,89,70,100,88,598,85.43,lawyer
+Female,No,Writing,5,71,57,94,73,94,79,100,568,81.14,Doctor
+Female,No,Photography,14,77,66,74,62,81,72,66,498,71.14,Designer
+Female,No,"Coding,Music,Writing",2,66,94,86,80,75,98,56,555,79.29,lawyer
+Female,No,"Coding,Photography",5,55,68,100,73,78,99,88,561,80.14,Designer
+female,No,"Reading,Sports,Photography",9,70,62,96,85,73,79,74,539,77.0,Designer
+Male,Yes,"Sports,Drawing,Coding",12,77,91,94,71,63,69,91,556,79.43,Designer
+Female,No,"Music,Coding,Writing",5,67,63,54,72,54,91,85,486,69.43,Writer
+Male,No,Coding,9,73,97,68,88,88,87,62,563,80.43,Doctor
+Male,No,"Photography,Sports",6,65,63,59,83,60,63,81,474,67.71,designer
+Female,Yes,"Coding,Writing,Gaming",13,83,74,54,55,52,83,97,498,71.14,Writer
+Female,Yes,"Gaming,Sports,Photography",5,90,86,63,94,83,59,95,570,81.43,Doctor
+Male,Yes,"Sports,Drawing,Reading",2,57,62,59,87,54,69,54,442,63.14,Designer
+Female,No,"Photography,Drawing,Coding",4,78,91,60,96,72,51,94,542,77.43,Designer
+Male,No,"Sports,Photography,Coding",9,69,83,65,60,61,60,58,456,65.14,Designer
+Male,No,"Music,Sports,Coding",8,96,75,86,65,67,78,92,559,79.86,Software Engineer
+Female,No,Coding,15,84,87,75,94,58,41,52,491,70.14,Scientist
+Male,No,"Coding,Gaming,Writing",8,87,96,71,64,51,89,87,545,77.86,Lawyer
+Female,Yes,Writing,4,73,87,91,51,94,62,92,550,78.57,Writer
+Female,Yes,"Music,Gaming",14,54,88,54,95,70,72,58,491,70.14,Software Engineer
+Male,No,Writing,7,56,70,76,87,65,54,97,505,72.14,Writer
+Female,Yes,"Writing,Music",5,87,84,79,91,54,92,56,543,77.57,Lawyer
+Male,Yes,"Writing,Gaming",4,66,79,70,76,88,80,70,529,75.57,Doctor
+Female,No,Music,12,89,83,63,83,92,50,80,540,77.14,Doctor
+Male,Yes,"Gaming,Drawing",15,98,100,79,65,100,74,98,614,87.71,Doctor
+Male,Yes,Reading,7,67,47,64,96,99,67,65,505,72.14,Doctor
+Female,No,"Photography,Writing,Drawing",3,65,100,90,81,59,97,93,585,83.57,Lawyer
+Female,No,"Sports,Writing",9,91,47,100,46,61,60,100,505,72.14,Writer
+Male,No,"Writing,Sports,Gaming",10,72,91,76,82,41,94,99,555,79.29,Writer
+Male,No,"Reading,Coding,Drawing",7,57,88,46,100,100,59,73,523,74.71,Doctor
+Male,Yes,"Music,Gaming,Reading",9,80,58,52,67,95,65,84,501,71.57,Doctor
+Male,No,"Coding,Photography",15,83,78,55,51,62,79,45,453,64.71,Designer
+Male,No,Drawing,3,83,78,79,53,72,77,96,538,76.86,Designer
+Female,Yes,"Sports,Reading,Drawing",7,93,81,72,84,84,72,67,553,79.0,Designer
+Male,Yes,Reading,1,82,82,58,85,72,47,47,473,67.57,Doctor
+Male,Yes,Reading,2,73,61,60,82,80,62,92,510,72.86,Software Engineer
+Female,Yes,"Gaming,Writing",2,66,99,68,82,75,82,89,561,80.14,writer
+Male,Yes,Gaming,12,61,53,74,71,56,82,78,475,67.86,Software Engineer
+Female,Yes,"Photography,Writing",14,55,68,84,58,48,99,81,493,70.43,designer
+Male,Yes,Drawing,7,82,80,71,80,62,63,74,512,73.14,designer
+Male,No,"Photography,Drawing",7,100,100,90,87,83,92,74,626,89.43,Software Engineer
+Male,Yes,"Sports,Coding",10,96,83,47,100,72,51,59,508,72.57,Real-Estate Developer
+Male,Yes,"Writing,Gaming,Photography",2,93,46,95,57,70,57,82,500,71.43,software Engineer
+Male,Yes,"Writing,Sports,Reading",10,90,79,63,61,57,82,92,524,74.86,Writer
+Female,Yes,"Gaming,Writing",11,95,74,84,77,88,57,42,517,73.86,Doctor
+Female,Yes,Sports,9,74,63,77,62,75,67,59,477,68.14,Teacher
+Female,No,"Coding,Reading,Music",5,93,65,49,60,67,66,100,500,71.43,software Engineer
+Female,No,"Sports,Reading,Drawing",4,100,96,72,86,76,69,47,546,78.0,Designer
+Male,No,"Coding,Photography",6,91,49,99,57,55,90,68,509,72.71,Software Engineer
+Female,Yes,Writing,15,88,49,85,51,78,77,78,506,72.29,Writer
+Male,No,Coding,5,81,100,59,79,56,100,69,544,77.71,Lawyer
+Male,No,"Gaming,Music,Reading",3,61,61,53,78,51,58,100,462,66.0,accountant
+female,Yes,"Drawing,Gaming",12,66,68,42,74,62,66,87,465,66.43,Designer
+Female,No,Sports,1,90,56,65,61,59,64,91,486,69.43,Banker
+Female,No,"Reading,Coding,Gaming",15,62,59,95,56,60,60,97,489,69.86,game Developer
+Female,No,"Writing,Sports",15,93,60,66,59,92,75,50,495,70.71,Doctor
+Male,No,"Writing,Reading",15,64,81,64,96,51,100,75,531,75.86,Lawyer
+Female,No,"Gaming,Reading",5,88,66,63,82,85,72,95,551,78.71,Doctor
+Male,No,"Coding,Drawing",5,70,82,92,87,83,90,70,574,82.0,Doctor
+female,No,"Sports,Music",8,98,100,87,70,83,64,59,561,80.14,Software Engineer
+Female,Yes,Music,4,72,51,41,58,74,90,87,473,67.57,Government Officer
+female,No,"Sports,Reading,Gaming",7,72,84,62,61,91,92,41,503,71.86,Doctor
+Male,No,Drawing,13,100,73,78,43,78,57,67,496,70.86,Designer
+female,Yes,"Reading,Gaming",15,82,98,96,73,81,94,76,600,85.71,Teacher
+Female,No,"Sports,Gaming",11,63,99,100,81,76,90,63,572,81.71,Lawyer
+Female,No,Music,4,68,77,72,76,61,53,56,463,66.14,Scientist
+Female,Yes,"Sports,Coding,Photography",7,68,81,80,66,48,54,82,479,68.43,Designer
+female,Yes,"Gaming,Sports,Coding",6,73,91,77,86,92,93,87,599,85.57,Lawyer
+Male,Yes,"Drawing,Gaming,Reading",2,67,100,89,81,75,100,91,603,86.14,Lawyer
+Female,No,"Reading,Writing,Sports",2,89,74,91,74,97,70,89,584,83.43,Doctor
+Male,No,Music,7,73,46,65,76,83,100,75,518,74.0,Doctor
+Male,No,Coding,15,78,84,94,87,55,46,88,532,76.0,Game Developer
+Male,No,Coding,5,80,79,70,85,70,77,97,558,79.71,construction Engineer
+Female,No,"Writing,Sports",1,90,76,45,66,61,91,50,479,68.43,Writer
+Male,Yes,Sports,14,58,94,65,59,66,81,84,507,72.43,Artist
+Male,No,"Music,Gaming,Drawing",3,85,80,94,90,59,100,52,560,80.0,Software Engineer
+Female,Yes,"Coding,Drawing,Music",11,67,82,94,54,55,83,100,535,76.43,Designer
+Male,Yes,"Music,Gaming,Reading",10,48,100,77,100,46,81,78,530,75.71,Game Developer
+Female,Yes,"Reading,Coding,Sports",14,76,63,85,67,85,74,96,546,78.0,Doctor
+Male,No,Music,10,83,90,78,89,70,100,88,598,85.43,lawyer
+Female,No,Writing,5,71,57,94,73,94,79,100,568,81.14,Doctor
+Female,No,Photography,14,77,66,74,62,81,72,66,498,71.14,Designer
+Female,No,"Coding,Music,Writing",2,66,94,86,80,75,98,56,555,79.29,lawyer
+Female,No,"Coding,Photography",5,55,68,100,73,78,99,88,561,80.14,Designer
+female,No,"Reading,Sports,Photography",9,70,62,96,85,73,79,74,539,77.0,Designer
+Male,Yes,"Sports,Drawing,Coding",12,77,91,94,71,63,69,91,556,79.43,Designer
+Female,No,"Music,Coding,Writing",5,67,63,54,72,54,91,85,486,69.43,Writer
+Male,No,Coding,9,73,97,68,88,88,87,62,563,80.43,Doctor
+Male,No,"Photography,Sports",6,65,63,59,83,60,63,81,474,67.71,designer
+Female,Yes,"Coding,Writing,Gaming",13,83,74,54,55,52,83,97,498,71.14,Writer
+Female,Yes,"Gaming,Sports,Photography",5,90,86,63,94,83,59,95,570,81.43,Doctor
+Male,Yes,"Sports,Drawing,Reading",2,57,62,59,87,54,69,54,442,63.14,Designer
+Female,No,"Photography,Drawing,Coding",4,78,91,60,96,72,51,94,542,77.43,Designer
+Male,No,"Sports,Photography,Coding",9,69,83,65,60,61,60,58,456,65.14,Designer
+Male,No,"Music,Sports,Coding",8,96,75,86,65,67,78,92,559,79.86,Software Engineer
+Female,No,Coding,15,84,87,75,94,58,41,52,491,70.14,Scientist
+Male,No,"Coding,Gaming,Writing",8,87,96,71,64,51,89,87,545,77.86,Lawyer
+Female,Yes,Writing,4,73,87,91,51,94,62,92,550,78.57,Writer
+Female,Yes,"Music,Gaming",14,54,88,54,95,70,72,58,491,70.14,Software Engineer
+Male,No,Writing,7,56,70,76,87,65,54,97,505,72.14,Writer
+Female,Yes,"Writing,Music",5,87,84,79,91,54,92,56,543,77.57,Lawyer
+Male,Yes,"Writing,Gaming",4,66,79,70,76,88,80,70,529,75.57,Doctor
+Female,No,Music,12,89,83,63,83,92,50,80,540,77.14,Doctor
+Male,Yes,"Gaming,Drawing",15,98,100,79,65,100,74,98,614,87.71,Doctor
+Male,Yes,Reading,7,67,47,64,96,99,67,65,505,72.14,Doctor
+Female,No,"Coding,Gaming,Sports",15,60,100,90,70,52,85,82,539,77.0,Writer
+female,No,"Music,Writing",7,72,49,58,77,86,67,82,491,70.14,Doctor
+Female,No,Gaming,5,40,78,94,90,100,61,91,554,79.14,Doctor
+Female,No,Reading,4,84,68,87,66,88,91,100,584,83.43,Software Engineer
+Male,Yes,"Coding,Drawing,Sports",1,86,79,100,66,47,58,80,516,73.71,Software Engineer
+Female,Yes,Drawing,13,80,74,84,78,73,57,62,508,72.57,Designer
+Female,No,"Reading,Gaming,Coding",8,52,62,96,59,87,92,91,539,77.0,Doctor
+female,No,Gaming,1,62,94,53,70,74,85,100,538,76.86,Banker
+Female,No,Sports,8,49,84,88,65,96,63,96,541,77.29,Doctor
+Male,No,"Music,Reading,Sports",2,55,44,61,76,84,56,53,429,61.29,Scientist
+Male,No,"Reading,Photography",12,95,82,84,78,100,100,66,605,86.43,Doctor
+Female,Yes,"Gaming,Drawing",1,85,67,67,85,78,68,80,530,75.71,Designer
+Male,No,"Reading,Coding,Sports",5,52,63,84,59,90,54,100,502,71.71,doctor
+Male,Yes,"Sports,Writing",13,91,66,64,100,76,53,83,533,76.14,Writer
+female,Yes,Photography,13,63,61,95,100,84,99,59,561,80.14,Designer
+Female,No,"Photography,Gaming",9,52,93,63,70,80,97,67,522,74.57,doctor
+Male,Yes,"Writing,Gaming",11,100,46,83,64,88,76,56,513,73.29,Doctor
+Male,No,Music,6,79,71,61,69,81,67,82,510,72.86,Teacher
+Male,Yes,Gaming,10,90,70,89,81,65,70,85,550,78.57,Banker
+Female,No,"Coding,Gaming,Sports",15,60,100,90,70,52,85,82,539,77.0,Writer
+female,No,"Music,Writing",7,72,49,58,77,86,67,82,491,70.14,Doctor
+Female,No,Gaming,5,40,78,94,90,100,61,91,554,79.14,Doctor
+Female,No,Reading,4,84,68,87,66,88,91,100,584,83.43,Software Engineer
+Male,Yes,"Coding,Drawing,Sports",1,86,79,100,66,47,58,80,516,73.71,Software Engineer
+Female,Yes,Drawing,13,80,74,84,78,73,57,62,508,72.57,Designer
+Female,No,"Reading,Gaming,Coding",8,52,62,96,59,87,92,91,539,77.0,Doctor
+female,No,Gaming,1,62,94,53,70,74,85,100,538,76.86,Banker
+Female,No,Sports,8,49,84,88,65,96,63,96,541,77.29,Doctor
+Female,No,"Music,Drawing,Writing",11,80,54,55,55,55,77,56,432,61.71,Designer
+Female,Yes,"Coding,Music,Gaming",9,71,92,57,76,72,92,98,558,79.71,Lawyer
+Female,Yes,"Music,Drawing",2,86,82,63,59,92,80,64,526,75.14,Doctor
+Male,No,"Reading,Coding,Drawing",10,64,77,85,99,89,89,93,596,85.14,Doctor
+Male,No,Drawing,5,94,98,69,71,72,50,61,515,73.57,Designer
+Male,No,Drawing,12,90,51,55,97,83,63,74,513,73.29,Designer
+Female,No,"Drawing,Photography",5,96,70,99,86,88,55,53,547,78.14,Software Engineer
+Male,Yes,"Coding,Reading,Photography",5,78,92,77,81,88,78,76,570,81.43,Doctor
+Female,Yes,"Writing,Drawing,Sports",2,68,93,93,87,81,83,92,597,85.29,Designer
+Female,Yes,Gaming,10,53,50,63,69,63,99,58,455,65.0,Banker
+Female,No,Coding,8,97,77,61,58,74,84,95,546,78.0,Scientist
+Female,Yes,"Coding,Sports",1,79,54,70,86,77,86,75,527,75.29,Game Developer
+Female,Yes,"Coding,Drawing",3,89,79,94,73,55,77,56,523,74.71,Software Engineer
+Male,No,"Gaming,Music,Coding",7,69,97,71,64,71,99,60,531,75.86,Lawyer
+Male,Yes,"Sports,Gaming,Drawing",6,96,91,59,65,56,59,66,492,70.29,Designer
+Male,Yes,"Drawing,Gaming,Reading",2,61,99,90,81,79,98,86,594,84.86,Lawyer
+Female,No,"Reading,Writing,Sports",2,80,78,90,69,100,67,87,571,81.57,Doctor
+Male,No,"Writing,Drawing,Sports",8,52,53,73,68,54,91,55,446,63.71,Designer
+Female,No,"Coding,Sports,Music",11,62,70,88,80,82,59,53,494,70.57,Stock Investor
+Male,No,"Writing,Music,Reading",3,52,65,95,78,78,83,83,534,76.29,Writer
+Male,No,"Music,Sports",7,99,71,93,88,53,100,90,594,84.86,Software Engineer
+Female,Yes,"Writing,Music",11,74,68,66,96,92,88,59,543,77.57,Doctor
+Female,Yes,"Drawing,Photography,Gaming",11,94,92,75,58,88,95,55,557,79.57,Doctor
+Female,No,"Reading,Gaming,Writing",11,94,97,93,83,55,91,92,605,86.43,Software Engineer
+Female,No,Reading,5,61,63,71,99,81,62,64,501,71.57,Software Engineer
+Male,Yes,"Writing,Music",13,84,97,83,52,92,71,99,578,82.57,Doctor
+Male,No,Drawing,3,94,99,89,60,96,78,52,568,81.14,Software Engineer
+Female,No,"Sports,Photography,Music",5,98,97,100,78,64,84,65,586,83.71,Software Engineer
+Female,No,Reading,11,86,78,79,99,68,99,74,583,83.29,Game Developer
+Male,Yes,"Drawing,Gaming,Photography",1,91,80,73,85,56,95,83,563,80.43,Designer
+Male,No,Drawing,5,78,82,59,77,55,64,78,493,70.43,Designer
+Female,Yes,"Coding,Sports",9,73,65,74,55,73,64,51,455,65.0,Accountant
+Male,No,Drawing,1,68,80,94,58,98,95,80,573,81.86,Doctor
+Female,Yes,Coding,5,63,59,85,96,88,83,77,551,78.71,Doctor
+Male,No,Music,2,53,65,76,90,100,89,79,552,78.86,Doctor
+Male,Yes,"Coding,Reading",9,86,65,95,59,68,77,50,500,71.43,Software Engineer
+Female,Yes,"Gaming,Writing,Reading",11,55,83,73,54,83,84,82,514,73.43,Writer
+Male,No,"Coding,Reading",7,73,66,97,51,72,100,54,513,73.29,Designer
+Male,Yes,"Reading,Writing,Coding",6,84,71,91,61,99,93,79,578,82.57,Doctor
+Female,Yes,Writing,12,99,79,52,68,62,52,100,512,73.14,Writer
+Male,Yes,"Music,Photography",7,84,80,66,52,98,91,62,533,76.14,Doctor
+Female,No,Reading,5,57,73,77,75,97,78,74,531,75.86,Doctor
+Female,Yes,"Photography,Drawing",15,83,67,55,96,77,55,77,510,72.86,Designer
+Male,No,"Writing,Coding",6,92,68,69,78,88,95,77,567,81.0,Doctor
+Male,No,"Photography,Coding",12,72,89,77,67,90,100,53,548,78.29,Doctor
+Male,No,"Drawing,Coding",3,88,93,100,78,52,58,54,523,74.71,Software Engineer
+Male,No,"Gaming,Music",1,88,59,93,78,73,73,78,542,77.43,Software Engineer
+Male,Yes,"Reading,Sports,Drawing",11,67,65,57,51,97,61,81,479,68.43,Doctor
+Female,Yes,"Music,Reading",8,63,89,68,94,81,62,57,514,73.43,Software Engineer
+Male,No,Photography,2,93,70,92,72,95,54,85,561,80.14,Software Engineer
+Female,No,Drawing,13,73,82,64,57,62,100,58,496,70.86,Designer
+Male,No,Reading,9,86,73,79,85,58,89,55,525,75.0,Government Officer
+Female,No,"Photography,Music,Sports",13,76,86,54,58,70,91,54,489,69.86,Lawyer
+Female,No,"Reading,Writing,Music",11,87,61,99,58,77,82,53,517,73.86,Software Engineer
+Male,Yes,"Drawing,Writing",6,95,64,72,83,68,55,66,503,71.86,Designer
+Male,No,Music,10,84,55,82,91,60,87,87,546,78.0,Software Engineer
+Male,No,"Coding,Gaming,Photography",2,52,91,99,86,66,91,63,548,78.29,Lawyer
+Female,Yes,"Music,Reading",5,80,65,93,75,69,79,54,515,73.57,Doctor
+Male,No,"Photography,Sports",4,71,88,59,70,95,70,96,549,78.43,Doctor
+Female,No,Reading,9,85,56,70,65,79,57,67,479,68.43,Stock Investor
+Male,Yes,Coding,5,74,89,76,65,60,70,86,520,74.29,Accountant
+Male,Yes,"Photography,Sports",15,69,81,51,55,75,82,79,492,70.29,Designer
+Male,Yes,"Reading,Coding,Gaming",5,81,88,91,93,80,68,84,585,83.57,Lawyer
+Male,No,Music,12,73,98,75,73,52,75,53,499,71.29,Business Owner
+Female,No,Gaming,9,78,98,85,67,89,93,89,599,85.57,Doctor
+Male,Yes,Gaming,6,100,71,85,73,98,59,62,548,78.29,Doctor
+Female,Yes,Coding,3,95,71,80,83,79,59,88,555,79.29,Software Engineer
+Female,No,Gaming,10,97,69,87,71,82,82,84,572,81.71,Software Engineer
+Female,No,"Coding,Drawing",6,93,57,76,87,69,100,96,578,82.57,Designer
+Male,No,"Sports,Reading",1,87,80,60,83,90,96,89,585,83.57,Doctor
+Female,Yes,"Sports,Coding,Music",12,57,62,51,78,70,76,59,453,64.71,Game Developer
+Male,No,"Photography,Gaming,Reading",12,53,95,58,83,63,85,70,507,72.43,Designer
+Female,No,"Drawing,Sports",15,84,71,84,72,93,99,96,599,85.57,Doctor
+Female,No,Sports,5,85,69,64,69,99,68,95,549,78.43,Doctor
+Male,No,"Photography,Drawing",9,100,96,67,68,57,86,93,567,81.0,Lawyer
+Female,No,"Drawing,Photography",1,68,95,55,72,78,91,66,525,75.0,Lawyer
+Female,Yes,Music,15,85,94,67,58,56,89,97,546,78.0,Lawyer
+Male,Yes,Sports,11,64,53,56,76,71,95,80,495,70.71,Artist
+Male,Yes,"Drawing,Sports,Reading",15,80,80,91,62,98,68,70,549,78.43,Doctor
+Female,Yes,Sports,9,97,96,52,61,76,61,52,495,70.71,Construction Engineer
+Female,Yes,"Music,Coding,Gaming",5,86,88,56,71,68,79,91,539,77.0,Real-Estate Developer
+Male,No,"Sports,Gaming",2,71,60,96,79,91,66,95,558,79.71,Doctor
+Male,Yes,"Reading,Gaming,Drawing",10,93,98,62,61,89,90,75,568,81.14,Doctor
+Female,No,Gaming,11,56,61,58,80,70,65,50,440,62.86,Banker
+Female,Yes,"Music,Drawing",5,87,96,86,50,66,91,73,549,78.43,Software Engineer
+Male,Yes,"Writing,Sports,Drawing",3,75,93,82,95,99,69,94,607,86.71,Doctor
+Female,Yes,"Coding,Writing,Gaming",13,86,69,55,65,57,85,98,515,73.57,Writer
+Female,Yes,"Gaming,Sports,Photography",5,87,77,69,86,89,53,89,550,78.57,Doctor
+Male,Yes,"Sports,Drawing,Reading",2,60,65,61,85,54,60,50,435,62.14,Designer
+Female,No,"Photography,Drawing,Coding",4,68,95,68,94,79,54,93,551,78.71,Designer
+Male,No,"Sports,Photography,Coding",9,64,91,59,67,59,54,53,447,63.86,Designer
+Male,No,"Music,Sports,Coding",8,94,69,94,75,67,82,84,565,80.71,Software Engineer
+Female,No,Coding,15,77,97,70,88,66,51,55,504,72.0,Scientist
+Male,No,"Coding,Gaming,Writing",8,83,91,78,67,61,87,77,544,77.71,Lawyer
+Female,Yes,"Reading,Sports",6,70,92,56,60,71,76,94,519,74.14,Real-Estate Developer
+Female,No,"Coding,Sports,Photography",6,66,70,57,99,75,82,50,499,71.29,Designer
+Female,No,Sports,9,73,89,98,81,90,78,98,607,86.71,Doctor
+Male,Yes,"Drawing,Photography",8,94,81,57,51,90,88,65,526,75.14,Doctor
+Male,No,"Coding,Music,Sports",2,64,57,79,57,91,59,81,488,69.71,Doctor
+Female,No,"Photography,Sports",4,79,85,59,74,62,88,82,529,75.57,Designer
+Male,Yes,"Gaming,Drawing",15,100,82,67,50,68,96,69,532,76.0,Designer
+Female,Yes,"Photography,Drawing",6,85,98,84,74,79,70,62,552,78.86,Designer
+Male,No,Gaming,1,70,97,80,95,74,74,92,582,83.14,Software Engineer
+Female,Yes,Reading,14,56,78,56,83,79,50,96,498,71.14,Software Engineer
+Female,Yes,Photography,13,66,71,89,94,75,91,55,541,77.29,Designer
+Female,No,"Photography,Gaming",9,52,89,54,65,90,93,68,511,73.0,Doctor
+Male,Yes,"Writing,Gaming",11,95,56,78,60,94,69,51,503,71.86,Doctor
+Male,No,Music,6,73,77,59,65,83,76,86,519,74.14,Teacher
+Male,Yes,Gaming,10,93,65,81,87,59,64,79,528,75.43,Banker
+Female,No,"Coding,Gaming,Sports",15,68,93,84,60,54,78,72,509,72.71,Writer
+Female,No,"Music,Writing",7,80,56,65,74,86,72,86,519,74.14,Doctor
+Female,No,Gaming,5,50,86,93,99,97,53,88,566,80.86,Doctor
+Female,No,Reading,4,90,62,89,66,93,98,96,594,84.86,Software Engineer
+Male,Yes,"Coding,Drawing,Sports",1,87,73,96,58,55,68,70,507,72.43,Software Engineer
+Female,Yes,Drawing,13,84,73,83,82,67,60,66,515,73.57,Designer
+Female,No,"Reading,Gaming,Coding",8,54,59,98,64,93,96,93,557,79.57,Doctor
+Female,No,Gaming,1,66,84,57,79,73,93,97,549,78.43,Banker
+Female,No,Sports,8,51,89,85,70,89,64,91,539,77.0,Doctor
+Male,No,"Music,Reading,Sports",2,58,52,52,69,81,57,56,425,60.71,Scientist
+Male,No,"Reading,Photography",12,94,84,76,87,97,96,59,593,84.71,Doctor
+Female,Yes,"Gaming,Drawing",1,94,73,63,78,78,65,73,524,74.86,Designer
+Male,No,"Reading,Coding,Sports",5,62,57,79,55,92,63,91,499,71.29,Doctor
+Male,Yes,"Sports,Writing",13,86,63,54,98,85,63,87,536,76.57,Writer
+Male,Yes,"Drawing,Gaming",15,88,50,67,59,58,84,66,472,67.43,Designer
+Male,Yes,"Coding,Writing,Photography",6,100,100,65,87,70,51,61,534,76.29,Designer
+Female,Yes,Gaming,9,57,97,54,80,78,99,73,538,76.86,Lawyer
+Male,No,"Sports,Music,Coding",12,100,92,83,69,79,91,51,565,80.71,Lawyer
+Male,No,"Gaming,Reading",2,81,95,78,54,55,70,88,521,74.43,Software Engineer
+Male,Yes,"Reading,Sports",10,83,68,79,82,88,77,56,533,76.14,Doctor
+Male,Yes,"Photography,Writing",7,71,79,75,76,96,56,70,523,74.71,Doctor
+Female,No,"Music,Drawing,Writing",11,80,54,55,55,55,77,56,432,61.71,Designer
+Female,Yes,Photography,13,66,71,89,94,75,91,55,541,77.29,Designer
+Female,No,"Photography,Gaming",9,52,89,54,65,90,93,68,511,73.0,Doctor
+Male,Yes,"Writing,Gaming",11,95,56,78,60,94,69,51,503,71.86,Doctor
+Male,No,Music,6,73,77,59,65,83,76,86,519,74.14,Teacher
+Male,Yes,Gaming,10,93,65,81,87,59,64,79,528,75.43,Banker
+Female,No,"Coding,Gaming,Sports",15,68,93,84,60,54,78,72,509,72.71,Writer
+Female,No,"Music,Writing",7,80,56,65,74,86,72,86,519,74.14,Doctor
+Female,No,Gaming,5,50,86,93,99,97,53,88,566,80.86,Doctor
+Female,No,Reading,4,90,62,89,66,93,98,96,594,84.86,Software Engineer
+Male,Yes,"Coding,Drawing,Sports",1,87,73,96,58,55,68,70,507,72.43,Software Engineer
+Female,Yes,Drawing,13,84,73,83,82,67,60,66,515,73.57,Designer
+Female,No,"Reading,Gaming,Coding",8,54,59,98,64,93,96,93,557,79.57,Doctor
+Female,No,Gaming,1,66,84,57,79,73,93,97,549,78.43,Banker
+female,No,"Drawing,Photography",1,69,92,63,67,71,84,68,514,73.43,Lawyer
+Female,Yes,Music,15,80,96,76,50,56,87,100,545,77.86,Lawyer
+Male,Yes,Sports,11,57,63,63,84,65,90,79,501,71.57,Artist
+male,Yes,"Drawing,Sports,Reading",15,80,70,95,66,100,59,70,540,77.14,Doctor
+Female,Yes,Sports,9,100,100,50,55,76,67,43,491,70.14,Construction Engineer
+Female,Yes,"Music,Coding,Gaming",5,81,84,62,70,67,73,89,526,75.14,Real-Estate Developer
+Male,No,"Sports,Gaming",2,65,54,99,75,88,61,100,542,77.43,Doctor
+Male,Yes,"Reading,Gaming,Drawing",10,100,90,66,67,84,91,67,565,80.71,Doctor
+Female,No,Gaming,11,47,62,48,76,65,75,45,418,59.71,Banker
+Female,Yes,"Music,Drawing",5,82,100,96,51,63,90,67,549,78.43,Software Engineer
+Male,Yes,"Writing,Sports,Drawing",3,75,100,74,100,100,79,88,616,88.0,Doctor
+Male,Yes,"Music,Writing,Gaming",3,97,56,93,97,84,55,87,569,81.29,Software Engineer
+Female,Yes,Writing,4,64,82,88,51,85,62,95,527,75.29,Writer
+Female,Yes,"Music,Gaming",14,50,98,60,94,77,71,67,517,73.86,Software Engineer
+Male,No,Writing,7,56,72,72,88,66,52,96,502,71.71,Writer
+Female,Yes,"Writing,Music",5,90,89,73,86,62,95,54,549,78.43,Lawyer
+Male,Yes,"Writing,Gaming",4,56,74,67,79,90,73,60,499,71.29,Doctor
+Female,No,Music,12,93,91,54,88,90,60,84,560,80.0,Doctor
+Male,Yes,"Gaming,Drawing",15,90,94,85,64,93,70,99,595,85.0,Doctor
+Male,Yes,Reading,7,67,54,63,86,95,70,63,498,71.14,Doctor
+Female,No,"Photography,Writing,Drawing",3,65,97,85,84,66,97,87,581,83.0,Lawyer
+Female,No,"Sports,Writing",9,81,55,98,53,57,59,90,493,70.43,Writer
+Male,No,"Writing,Sports,Gaming",10,79,83,66,85,50,93,96,552,78.86,Writer
+Male,No,"Reading,Coding,Drawing",7,60,79,50,96,96,66,82,529,75.57,Doctor
+Male,Yes,"Music,Gaming,Reading",9,88,62,59,73,98,60,84,524,74.86,Doctor
+Male,No,"Coding,Photography",15,73,69,65,53,65,86,55,466,66.57,Designer
+Male,No,Drawing,3,92,80,85,60,66,83,88,554,79.14,Designer
